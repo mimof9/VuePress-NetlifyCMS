@@ -1,8 +1,8 @@
 ---
 title: README
+date: 2021-05-25T16:39:04.100Z
 ---
-
-# VuePress-NetlifyCMS
+# VuePress-NetlifyCMS update
 
 ![GitHub](https://img.shields.io/github/license/DemoMacro/VuePress-NetlifyCMS)
 
@@ -67,5 +67,5 @@ Add the following script before the closing body tag of your site's main index p
 
 ## Donate
 
-- [Alipay](https://qr.alipay.com/fkx06887yqy4k3q5kemidbc)
-- [Paypal](https://www.paypal.me/DemoMacro)
+* [Alipay](https://qr.alipay.com/fkx06887yqy4k3q5kemidbc)
+* [Paypal](https://www.paypal.me/DemoMacro)
