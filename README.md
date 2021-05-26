@@ -70,4 +70,4 @@ Add the following script before the closing body tag of your site's main index p
 * [Alipay](https://qr.alipay.com/fkx06887yqy4k3q5kemidbc)
 * [Paypal](https://www.paypal.me/DemoMacro)
 
-![证件照](./证件照.jpeg)
+![证件照](证件照.jpeg)
