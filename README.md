@@ -2,7 +2,7 @@
 title: README
 date: 2021-05-25T16:39:04.100Z
 ---
-# VuePress-NetlifyCMS update
+# VuePress-NetlifyCMS update updata2
 
 ![GitHub](https://img.shields.io/github/license/DemoMacro/VuePress-NetlifyCMS)
 
